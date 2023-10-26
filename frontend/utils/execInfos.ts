@@ -2,42 +2,40 @@ import { ExecInfo } from '../pages/about';
 
 const execInfos: ExecInfo[] = [
   {
-    name: 'Soham Kulkarni',
-    email: 'sohamk2@illinois.edu',
-    designation: 'President',
-    bio: "Hi! I’m Soham, and I’m a Junior majoring in CS. I’m super passionate  \
-      about new technologies and using them for social good. That’s       \
-      one of the reasons why I love open-source software. I'm really      \
-      good at making dad jokes and building things with code, so if       \
-      either of those interest you, I'm more than happy to hang out and    \
-      chat :)",
-    headshot: '/headshots/soham.jpg',
+    name: 'Akshata Tiwari',
+    email: 'atiwari5@illinois.edu',
+    designation: 'Co-President',
+    bio: "Hi everyone! I am a sophomore studying Computer Science + \
+    Economics this fall. I love to paint, play poker, work out, and \
+    try different foods. I love to explore campus opportunities, \
+    programs, and cool RSOs while meeting new friends along the way. I \
+    can’t wait for you to become part of the open source community!',
+    headshot: '/headshots/IMG_9851 2.jpg"
   },
   {
-    name: 'Arnav Shah',
-    email: 'arnavss2@illinois.edu',
-    designation: 'Vice President',
-    bio: 'Hi! I’m Arnav. I’m a rising junior in Computer Science minoring \
-    in business. I want to develop mixed reality software for healthcare. \
-    Outside CS, I like playing Tabla, drums and soccer. Excited to work with\
-     you on Open-Source!',
-    headshot: '/headshots/arnav.jpeg',
+    name: 'Anagha Tiwari',
+    email: 'anaght3@illinois.edu',
+    designation: 'Co-President',
+    bio: 'Hello everyone :)) I’m a sophomore majoring in CS & Statistics. \
+      At Open Source at Illinois, I hope to be a part of a welcoming and \
+      supportive environment where we can collaborate with one another \
+      to create projects and contribute to the open source community! During my \
+      free time, I love taking walks, playing cards, swimming, working out, and eating \
+      and eating spicy food!',
+    headshot: '/headshots/IMG_9353.jpg',
   },
   {
     name: 'Prakhar Gupta',
     email: 'prakhar7@illinois.edu',
     designation: 'Treasurer',
-    bio: " I'm Prakhar, an incoming freshman. I'm going to be majoring \
-      in Electrical Engineering and will be staying at ISR this year.    \
-      I play the guitar and enjoy listening to hip-hop music. \
-      I'm also into cooking and a bit of basketball. I'm \
-      excited to be a part of Open Source at Illinois this fall, \
-      and I can't wait to get started!",
+    bio: " Hey! I'm a sophomore in ECE. I use Linux as my daily driver\
+    , and that's how I got into Open-Source. I love FOSS because of all\
+     the freedom it offers. Fun fact: I love cheesy dad jokes!",
     headshot: '/headshots/prakhar.jpg',
   },
   {
-    name: 'Anagha Tiwari',
-    email: 'anaghat3@illinois.edu',
+    name: 'Vedang Bhargava',
+    email: 'vedanb2@illinois.edu',
     designation: 'Secretary',
     bio: 'Hello everyone :)) I’m a freshman majoring in CS & Statistics. \
       At Open Source at Illinois, I hope to be a part of a welcoming and \
@@ -48,7 +46,7 @@ const execInfos: ExecInfo[] = [
     headshot: '/headshots/IMG_9353.jpg',
   },
   {
-    name: 'Max Fan',
+    name: 'Ayush Jain',
     email: 'myfan3@illinois.edu',
     designation: 'Contributions Lead',
     bio: "Hi! I'm Max and I'm a sophmore majoring in CS + Philosophy. I have a \
